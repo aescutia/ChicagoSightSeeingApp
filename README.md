@@ -1,9 +1,12 @@
-# ChicagoSightSeeingApp
-# Description
-This is the introductory project I did for my Framework-Based Development class. It was developed using Flutter and the Android Studio IDE. This app was created with the purpose of providing information about Chicago to users. The App contains three separate tabs: EAT, SLEEP, and SEE. Under each tab, there are three different buttons for the different locations associated with each category. Upon clicking the button, the Screen switches to a new page that provides the address of the location and a brief description of the place. There is also a floating action button on the bottom of the screen that allows the user to like the location. Upon clicking the button, a snack bar appears, displaying the total likes the location has.
-# How To Use
-If you wish to download this file and view it in action, you'll need to install the latest version of Flutter and Android Studio.
+# Chicago Sightseeing App
+This repository contains a sightseeing app I developed, showcasing some popular locations in Chicago. I wrote this code in Spring 2022 for my Cross-Platform Development class, and it is written using Flutter.
 
-For Mac Users, I found this video to be helpful when installing the tools: https://youtu.be/YVaFoCiQ2SI
+## About Ths Project:
+The purpose of this project is to provide information about Chicago to visitors. The app contains the following tabs: Eat, Sleep, and See. Each tab contains three locations that are associated with each category. Upon clicking a location, the user is navigated to a page that displays the address and a brief description of the location.
 
-For Windows Users: https://www.youtube.com/watch?v=lkUj76YSMhQ
+## How To Use
+- Android Studio is required, along with the latest version of Flutter.
+- Unzip the folder and open the project through Android Studio
+- Once the code is running, select any of the three tabs on the screen
+- To learn more about a location, click on the location to navigate to the info screen
+- To like a location, click on the button at the bottom of the info screen
